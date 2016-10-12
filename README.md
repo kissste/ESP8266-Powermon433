@@ -30,8 +30,8 @@ ESP8266-Powermon433
  P.S. Use Arduino IDE with target board being set to ESP8266
  
  Example graphs:
- ![Alt text](blob/master/server-side/energy.1h.png?raw=true "Energy 1h")
- ![Alt text](blob/master/server-side/energy.1d.png?raw=true "Energy 1d")
- ![Alt text](blob/master/server-side/energy.temp.1h.png?raw=true "Temperature 1h")
- ![Alt text](blob/master/server-side/energy.temp.1d.png?raw=true "Temperature 1d") 
+ ![Alt text](server-side/energy.1h.png?raw=true "Energy 1h")
+ ![Alt text](server-side/energy.1d.png?raw=true "Energy 1d")
+ ![Alt text](server-side/energy.temp.1h.png?raw=true "Temperature 1h")
+ ![Alt text](server-side/energy.temp.1d.png?raw=true "Temperature 1d") 
  
