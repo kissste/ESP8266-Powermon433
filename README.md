@@ -10,10 +10,13 @@ ESP8266-Powermon433
 
  Please read the original Arduino version scruss/Powermon433 first
 
- Code edited by kissste as follows:
- Ported to ESP8266
- Added UDP messaging
- Added Temperature and Humidity
- Tested with CC1101
- Use Arduino IDE
+ Changes made by kissste:
+ -- Ported to ESP8266
+ -- Added UDP messaging
+ -- Added Temperature and Humidity
+ -- Tested with CC1101
+ -- Python Server side to receive UDP messages and update RRDTOOL database
+ -- Python to render RRDTOOL charts
+ 
+ P.S. Use Arduino IDE with target board being set to ESP8266
  
